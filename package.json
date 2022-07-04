@@ -1,0 +1,12 @@
+{
+  "name": "unfinished-hook",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "frontend": "pnpm --filter=./frontend",
+    "prepare": "pnpm -r prepare"
+  },
+  "author": "",
+  "license": "MIT",
+  "type": "module"
+}
